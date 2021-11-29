@@ -1,0 +1,21 @@
+.timer li,
+.box {
+  font-size: 1.5em;
+  list-style-type: none;
+  text-transform: uppercase;
+  border-radius: 66px 66px 66px 66px;
+}
+.bold > * {
+  font-weight: 700;
+}
+.timer li span {
+  font-size: 4.5rem;
+  font-weight: bold !important;
+  text-align: center;
+}
+
+@media (max-width: 568px) {
+  .smallphone {
+    font-size: 18px;
+  }
+}

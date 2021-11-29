@@ -1,0 +1,18 @@
+hr {
+  border: 4px solid #d7beef;
+}
+.text-green {
+  color: #9cfedb;
+  font-weight: 600;
+}
+.imgfloat {
+  position: absolute;
+  top: -150px;
+  right: 0px;
+  transform: scale(0.8);
+}
+.imgfloat2 {
+  position: absolute;
+  bottom: -200px;
+  transform: scale(0.5);
+}

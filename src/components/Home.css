@@ -1,0 +1,10 @@
+.wrapper {
+  background: url(../assets/bg.svg);
+  background-size: cover;
+  /* height: 80vh; */
+}
+.nav-item {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  margin-left: 60px;
+}
